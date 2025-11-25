@@ -1,3 +1,11 @@
+```bash
+claude mcp add playwright npx @playwright/mcp@latest
+claude mcp add firebase npx -- -y firebase-tools@latest mcp
+claude mcp add --transport http github https://api.githubcopilot.com/mcp -H "Authorization: Bearer YOUR_GITHUB_PAT"
+
+```
+
+
 Welcome to your new TanStack app! 
 
 # Getting Started
